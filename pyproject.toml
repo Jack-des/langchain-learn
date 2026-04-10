@@ -1,0 +1,12 @@
+[project]
+name = "langchain-learn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-ollama>=1.1.0",
+    "pypdf>=6.9.2",
+]
